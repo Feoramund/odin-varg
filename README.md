@@ -1,5 +1,12 @@
 # odin-varg
 
+`odin-varg` has been accepted into the Odin programming language `core` library collection!
+The package was completely rewritten and enhanced with extra features.
+
+Check it out under `core:flags`.
+
+---
+
 `varg` is a complete command-line argument parser for the Odin programming
 language.
 
